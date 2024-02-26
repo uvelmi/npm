@@ -16,7 +16,12 @@
     "ecmaVersion": 2023
   },
   "rules": {
-    "prettier/prettier": "error",
+    "prettier/prettier": [
+			"error",
+		{
+			"endOfLine": "auto"
+		}
+	],
     "camelcase": [
       "error"
     ],
