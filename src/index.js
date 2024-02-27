@@ -1,3 +1,4 @@
+import './css/styles'
 const add = (a, b) => {
     return a + b + ''
 }

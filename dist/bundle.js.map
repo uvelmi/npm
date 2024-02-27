@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "file": "bundle.js",
+    "mappings": ";;;;;AAAA;AACA;AACA;AACA",
+    "sources": [
+        "webpack://npm/./src/index.js"
+    ],
+    "sourcesContent": [
+        "const add = (a, b) => {\n    return a + b + ''\n}\nadd(1, 2)\n"
+    ],
+    "names": [],
+    "sourceRoot": ""
+}
